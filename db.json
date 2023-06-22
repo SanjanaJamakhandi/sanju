@@ -1,0 +1,108 @@
+{
+  "posts": [
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+      "city": "vijapur",
+      "pincode": 8976,
+      "phonenumber": 896372453,
+      "id": 1
+    },
+    {
+      "name": "arati",
+      "email": "arati@gmail.com",
+      "city": "mumbai",
+      "pincode": 586101,
+      "phonenumber": 87654,
+      "id": 2
+    },
+    {
+      "name": "aishu",
+      "email": "aishu@gmail.com",
+      "city": "bijapur",
+      "pincode": 586101,
+      "phonenumber": 12345,
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "",
+      "city": "",
+      "pincode": "",
+      "phonenumber": "",
+      "id": 4
+    },
+    {
+      "name": null,
+      "email": null,
+      "city": null,
+      "pincode": null,
+      "phonenumber": null,
+      "id": 5
+    },
+    {
+      "name": null,
+      "email": null,
+      "city": null,
+      "pincode": null,
+      "phonenumber": null,
+      "id": 6
+    },
+    {
+      "name": "",
+      "email": "",
+      "city": "",
+      "pincode": "",
+      "phonenumber": "",
+      "id": 7
+    },
+    {
+      "name": null,
+      "email": null,
+      "city": null,
+      "pincode": null,
+      "phonenumber": null,
+      "id": 8
+    },
+    {
+      "name": null,
+      "email": null,
+      "city": null,
+      "pincode": null,
+      "phonenumber": null,
+      "id": 9
+    },
+    {
+      "name": "",
+      "email": "",
+      "city": "",
+      "pincode": "",
+      "phonenumber": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "email": "",
+      "city": "",
+      "pincode": "",
+      "phonenumber": "",
+      "id": 11
+    },
+    {
+      "name": null,
+      "email": null,
+      "city": null,
+      "pincode": null,
+      "phonenumber": null,
+      "id": 12
+    },
+    {
+      "name": "",
+      "email": "",
+      "city": "",
+      "pincode": "",
+      "phonenumber": "",
+      "id": 13
+    }
+  ]
+}

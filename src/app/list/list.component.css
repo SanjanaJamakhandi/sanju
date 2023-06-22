@@ -1,0 +1,13 @@
+h2{
+    color:aqua ;
+}
+.close{
+    font-weight: 700;
+   /*background-color: border-box;*/
+   /*color: antiquewhite;*/
+    font-size: 33px;
+    width: 50px;
+    border: none;
+    color: white;
+    background: none;
+}
